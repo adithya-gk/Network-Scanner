@@ -9,7 +9,9 @@ python3 pscanner.py
 ```
 
 Enter the target IP and port range when prompted.
-
+<p align="center">
+  <img src="scanner.PNG" width="350"> 
+</p>
 ## 🧩 Features
 - Fast TCP connect scanning
 - Custom IP and port range
